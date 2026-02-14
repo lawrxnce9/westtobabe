@@ -293,10 +293,7 @@ button:hover {
     animation: explode 1s ease-out;
 }
 
-.hearts-explosion::before {
-    content: '💕💖❤️💗💝💘';
-    animation: spin 2s linear infinite;
-}
+
 
 @keyframes explode {
     from {
